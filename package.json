@@ -1,0 +1,9 @@
+{
+  "name"          : "sortsofcoffee",
+  "description"   : "Sorting algorithms written in CoffeeScript and compiled to JavaScript",
+  "keywords"      : ["sorting"],
+  "author"        : "Aziz Yuldoshev <yuldoshev.aziz@gmail.com>",
+  "dependencies"  : {"vows": ">=0.6.0", "coffee-script": ">=1.1.2"},
+  "version"       : "0.1",
+  "engines"       : {"node": ">=0.6"}
+}
