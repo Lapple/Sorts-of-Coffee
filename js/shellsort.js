@@ -8,6 +8,8 @@
   lie far apart.
   The running time of Shellsort is heavily
   dependent on the gap sequence it uses.
+  
+  http://en.wikipedia.org/wiki/Shellsort
   */
 
   var shellsort;
