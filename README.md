@@ -7,7 +7,7 @@
 * [Insertion sort](http://en.wikipedia.org/wiki/Insertion_sort)
 * [Shell sort](http://en.wikipedia.org/wiki/Shellsort)
 
-## Benchmarking
+### Benchmarking
 While benchmarking I have received the following speed results:
 
 * Native [].sort took **4.25ms**
